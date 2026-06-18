@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Open Source Contributions
+
+| Project | Contribution | Pull Request |
+|---|---|---|
+| [terraform-provider-harbor](https://github.com/goharbor/terraform-provider-harbor) | Added write-only OIDC client secret support for Harbor config auth | <img src="https://api.iconify.design/octicon:git-merge-16.svg?color=%238b5cf6" width="16" height="16" alt="Merged PR" /> [#606](https://github.com/goharbor/terraform-provider-harbor/pull/606) |
+| [valkey-operator](https://github.com/valkey-io/valkey-operator) | Removed ConfigMap suffix from managed resource names | <img src="https://api.iconify.design/octicon:git-merge-16.svg?color=%238b5cf6" width="16" height="16" alt="Merged PR" /> [#190](https://github.com/valkey-io/valkey-operator/pull/190) |
+| [spring-framework](https://github.com/spring-projects/spring-framework) | Added DataSize converters to DefaultConversionService | <img src="https://api.iconify.design/octicon:git-merge-16.svg?color=%238b5cf6" width="16" height="16" alt="Merged PR" /> [#36830](https://github.com/spring-projects/spring-framework/pull/36830)
